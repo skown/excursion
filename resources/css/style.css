@@ -9,7 +9,7 @@ h1 {
   color: white;
   text-align: center;
 }
-#call-to-action {
+.call-to-action {
   color: aquamarine;
   font-size: 16px;
 }
@@ -17,9 +17,15 @@ h2 {
   font-family: Verdana;
   font-weight: 300;
   font-size: 42px;
+  color: white;
 }
-#first-text {
+.first-text {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
+}
+.footer-class {
+  text-align: right;
+  color: gray;
+  font-size: 21px;
 }
